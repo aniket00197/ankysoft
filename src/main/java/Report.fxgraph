@@ -1,0 +1,8 @@
+
+import javafx.scene.layout.AnchorPane
+
+component Report {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}

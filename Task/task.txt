@@ -1,0 +1,2 @@
+Remove unlimited table space of the user finance and create some table space and assign it to the user.
+how to check connection is connected or not and if yes use conn.close() else do not use conn.close()

@@ -1,0 +1,35 @@
+To check application css search on google 
+java fx css references
+
+
+______________________________________________
+Run command prompt as administrator.
+then use below command to start and stop
+lsnrctl start
+lsnrctl stop
+-______________________________________________
+
+Global database name : Excellence
+SID: Excellence
+user: 
+SYS mobilepassword
+SYSTEM mobilepassword
+EXCELLENCEAPP_USER excellence
+FINANCE: FINANCE
+
+______________________________________________
+
+
+now assign database previlege to new user.
+
+
+
+
+
+
+
+
+
+
+
+
